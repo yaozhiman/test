@@ -17,4 +17,3 @@ four
 10
 five
 six
-seven
